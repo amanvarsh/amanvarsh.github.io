@@ -283,7 +283,7 @@ h1, h2, h3, h4, h5, h6{margin: 0px !important;}
 article{position: relative; float: left; width: 100%;}
 article p{color: #6b6b6b; font-weight:400; font-style:normal; /*padding-bottom: 40px; Amit*/ padding-bottom: 15px; font-size: 16px; font-family: 'Open Sans', sans-serif; line-height: 138%;}
 ul li{color: #777777; position: relative; padding-left: 10px; /*padding-top: 3px; padding-bottom: 3px;*/ list-style: none;}
-ul li:after{position: absolute; left: 0px; /*top: 12px;*/ background: #00bbd2; width: 3px; height: 3px; border-radius: 5px; content: "";}
+ul li:after{position: absolute; left: 0px; /*top: 12px;*/ background: #00bbd2; width: 3px; height: 3px; border-radius: 5px;}
 .white{color: #fff !important;}
 .black{color: #222222 !important;}
 /*background*/
