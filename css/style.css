@@ -134,7 +134,7 @@
 .padL40{padding-left:40px;}
 .width100per{width:100% !important;}
 
-.bkg{background: #ccc; padding: 40px 20px;}
+.bkg{background: skyblue; padding: 40px 20px;}
 
 .fs48px{font-size:48px !important;}
 .MarL10{margin-left: 10px !important;}
@@ -301,7 +301,7 @@ ul li:after{position: absolute; left: 0px; /*top: 12px;*/ background: #00bbd2; w
 .swiper-pagination-switch:before{display: none;}
 .swiper-active-switch{background: #00bbd2; height:23px;}
 /*form styles*/
-form{position: relative; float: left; width: 100%; border-left: 1px  solid #f2f2f2;}
+form{position: relative; float: left; width: 100%; border-right: 1px  solid #f2f2f2;}
 input[type="text"], input[type="email"], select, textarea{background:#fff; border: 0px; height: 43px; line-height: 43px; padding: 0px 15px;  -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; width:48%; margin:20px 0 0 0; border: 1px  solid #e6e6e6; font-family: 'Open Sans'; font-size:14px; color:#8b8b8b; line-height:136%; float:left;}
 
 textarea{width: 100%; height: 125px;}
