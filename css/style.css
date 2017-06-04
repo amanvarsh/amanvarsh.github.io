@@ -136,6 +136,12 @@
 
 .bkg{background: skyblue; padding: 40px 20px;}
 
+.contact-form label{    display: inline-block; text-align: left;  width: 15%;  padding-right: 20px;}
+.contact-form input[type=text]{display: inline-block; float: none; width: 85%}
+.contact-form textarea{display: inline-block; float: none; width: 85%}
+.contact-thumbs .footerText a i {margin-right: 10px;}
+.contact-thumbs .footerText a{font-size: 28px;display: block;}
+
 .fs48px{font-size:48px !important;}
 .MarL10{margin-left: 10px !important;}
 .FSLH14{ font-size: 14px !important; line-height: 136% !important;}
