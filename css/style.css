@@ -228,7 +228,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 blockquote, q {quotes: none;}
 blockquote:before, blockquote:after, q:before, q:after {content: ''; content: none;}
 body *{-webkit-text-size-adjust:none;}
-.clear{clear:both; overflow:hidden; height:0px; font-size:0px; display: block;}
+.clear{clear:both; overflow:hidden; height:0px; font-size:0px; display: block;margin-bottom: -60px}
 input:focus, select:focus, textarea:focus, button:focus {outline: none;}
 input, textarea, select{font-family: 'regular', sans-serif; font-weight: 400; -webkit-appearance: none; border-radius: 0;}
 a, a:link, a:visited, a:active, a:hover{cursor: pointer; text-decoration: none; outline: none;}
