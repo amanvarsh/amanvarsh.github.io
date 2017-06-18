@@ -2096,7 +2096,7 @@ input[type="text"], input[type="email"], select, textarea { margin: 0 0 20px; pa
 }
 
 @media (min-width:961px){
-	.MarT68{margin-top:68px !important;}
+	.MarT68{margin-top:68px;}
 }
 /*ie*/
 _:-ms-input-placeholder, :root .type-2.block .image-block .bg {position: absolute; width: 100%; left: 0;}
