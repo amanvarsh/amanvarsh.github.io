@@ -148,8 +148,8 @@
 
 /*.ffopensans{font-family: 'Open Sans'; font-size:16px; color:#ffffff; line-height:138%; font-weight: 400 !important;}*/
 .footerText{font-family: 'Open Sans'; font-size:16px; color:#6b6b6b; line-height:138%; padding:50px 0px; font-weight: 400 !important;}
-.footerText a{font-family: "Raleway" !important;  font-size: 36px;  font-style: normal;font-weight: 300 !important;	text-decoration:none; color:#1a1a1a !important;	line-height:117%;}
-.headingNew{  font-family: "Raleway" !important;  font-size: 48px; font-style: normal; font-weight: 200; line-height: 117%; margin-bottom: 56px !important;  text-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);}
+.footerText a{font-family: "Calibiri" !important;  font-size: 36px;  font-style: normal;font-weight: 300 !important;	text-decoration:none; color:#1a1a1a !important;	line-height:117%;}
+.headingNew{  font-family: "Calibiri" !important;  font-size: 48px; font-style: normal; font-weight: 200; line-height: 117%; margin-bottom: 56px !important;  text-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);}
 .mcw-map { background-color: #3299b8;  background-image: url("http://assets.mobileroi.com/images/careers/map_2.jpg"); background-position: 40% top;    background-repeat: no-repeat;  background-size: cover;}
 .text-white {  color: #fff;}
 .text-white p {  color: #fff; font-size:16px;}
@@ -275,15 +275,15 @@ h1, h2, h3, h4, h5, h6{margin: 0px !important;}
 .titel-top{position: relative;}
 .titel-top:after{position: absolute; left: 50%; top: -25px; content:""; width: 90px; margin-left: -45px; height: 4px; background: #45a3e6;}
 .h1,.h4{font-family: 'black', sans-serif; /*text-transform: uppercase;*/ color: #222222;}
-.h2{font-family: 'Raleway' !important; font-size: 36px; color: #FFF; line-height: 117%; font-weight: 500; padding-bottom: 14px; position: relative;}
+.h2{font-family: 'Calibiri' !important; font-size: 36px; color: #FFF; line-height: 117%; font-weight: 500; padding-bottom: 14px; position: relative;}
 
 
 .h1{font-size: 56px; margin-bottom: 40px !important;}
 .h3{font-size: 30px; font-family: 'regular', sans-serif; font-weight: normal; /*text-transform: uppercase;*/ color: #222222;}
-.form-message{font-family: 'Raleway' !important; font-size: 18px; font-weight: normal; color: #6b6b6b; line-height: 117%;}
+.form-message{font-family: 'Calibiri' !important; font-size: 18px; font-weight: normal; color: #6b6b6b; line-height: 117%;}
 .h4{font-size: 20px; margin-bottom: 20px !important;}
 .h5{font-family: 'Open Sans', sans-serif;  font-size: 16px; color: #1a1a1a; line-height: 138%; font-weight: 600; margin:0px; /*margin-bottom: 27px !important;*/}
-.banner{font-family: 'Raleway' !important; font-style : normal ; font-weight : 200 ; font-size : 56px; line-height : 118% ; text-shadow : 0px 2px 5px rgba(0,0,0,0.25) ; /*margin-bottom : 68px !important; margin-top:60px !important;*/ }
+.banner{font-family: 'Calibiri' !important; font-style : normal ; font-weight : 200 ; font-size : 56px; line-height : 118% ; text-shadow : 0px 2px 5px rgba(0,0,0,0.25) ; /*margin-bottom : 68px !important; margin-top:60px !important;*/ }
 .banner span{font-weight: 500;}
 .small{font-size: 14px; font-family: 'Open Sans', sansserif; line-height: 136%; margin:0px;}
 .normall{font-size: 16px; line-height: 28px;}
@@ -778,10 +778,10 @@ footer{background: #1b1b1b; position: relative;}
 /**/
 .page-tagline{text-align: center;/* margin-bottom: 60px; padding-top: 91px;*/}
 /**.page-tagline .title{font-family: 'black'; font-size: 46px; color: #222; line-height: 56px; text-transform: uppercase; padding-bottom: 40px; position: relative;}**/
-.page-tagline .titleWhite{color: #fff; font-family: "Raleway" !important; font-size: 48px; font-weight: 300; line-height: 117%; padding:0px; position: relative;}
+.page-tagline .titleWhite{color: #fff; font-family: "Calibiri" !important; font-size: 48px; font-weight: 300; line-height: 117%; padding:0px; position: relative;}
 /**.banner{font-style : normal ; font-weight : 200 ; font-size : 36px; line-height : 118% ; text-shadow : 0px 2px 5px rgba(0,0,0,0.25) ; margin-bottom : 56px !important }**/
 
-.page-tagline .title{color: #1a1a1a; font-family: "Raleway" !important; font-size: 33px; font-weight: 300; line-height: 117%; padding:0px; position: relative;}
+.page-tagline .title{color: #1a1a1a; font-family: "Calibiri" !important; font-size: 33px; font-weight: 300; line-height: 117%; padding:0px; position: relative;}
 
 .page-tagline .title:last-child, .page-tagline .titleWhite:last-child{padding-bottom: 0;}
 .page-tagline .title:before{width: 100px; height: 4px; background: #45a3e6; position: absolute; left: 50%; margin-left: -50px; top: -41px; content: "";}
@@ -1967,7 +1967,7 @@ body[data-theme="theme-8"] .button.black{color: #fff;}
     .mob-icon.act span:before{width:30px; top: -2px;}
     .mob-icon.act span:after{width:30px; top: 2px;}
     nav{/*Amit 4 june*/ display:none; padding-right: 0px; float: none; position: absolute; top: 65px; left: -100%; height: 100%; width: 100%; background: #000; overflow-y: auto; -webkit-overflow-scrolling: touch; -moz-overflow-scrolling: touch; -o-overflow-scrolling: touch;-ms-overflow-scrolling: touch;}
-    nav a{width: 100%; padding: 0px; margin: 0px !important; text-indent: 20px; font-size: 18px; color:#fff !important; font-family: "Raleway" !important;  font-style: normal;font-weight: 200 !important;}
+    nav a{width: 100%; padding: 0px; margin: 0px !important; text-indent: 20px; font-size: 18px; color:#fff !important; font-family: "Calibiri" !important;  font-style: normal;font-weight: 200 !important;}
     nav ul li:last-child{margin-bottom: 65px !important;}
     nav ul li{width: 100%; padding: 0px;}
     nav ul ul{position:relative; float: left; top: 0px;}
