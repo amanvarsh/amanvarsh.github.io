@@ -787,7 +787,7 @@ footer{background: #1b1b1b; position: relative;}
 .page-tagline .title:before{width: 100px; height: 4px; background: #45a3e6; position: absolute; left: 50%; margin-left: -50px; top: -41px; content: "";}
 .page-tagline .titleWhite:before{width: 100px; height: 4px; background: #fff; position: absolute; left: 0; margin-left:0; top: -41px; content: "";}
 
-.page-tagline .description{color: #6b6b6b; font-family: "Open Sans", sans-serif;  font-size: 16px; line-height: 138%; margin:0px;}
+.page-tagline .description{color: #6b6b6b; font-family: "calibiri";  font-size: 18px; line-height: 138%; margin:0px;}
 .color-background .page-tagline .title{color: #fff;}
 .color-background .page-tagline .title:before{background: #fff;}
 .color-background .page-tagline .description{color: #fff;}
