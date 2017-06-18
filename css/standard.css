@@ -17187,8 +17187,8 @@ h2 {
 }
 /* H2 SECTION headers */
 .h2a {
-  font-family: "Geogrotesque", "Calibri", "Trebuchet MS", sans-serif;
-  font-family: "Geogrotesque", "Calibri", "Trebuchet MS", sans-serif !important;
+  
+  font-family: "calibri";
   font-weight: 500;
   font-size: 32px;
   line-height: 36px;
